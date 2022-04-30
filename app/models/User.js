@@ -5,7 +5,7 @@ class User {
         this.name = name;
         this.bio = bio;
         this.dateCreated = dateCreated;
-        this.lastUpdated = lastUpdate;
+        this.lastUpdated = lastUpdated;
     }
 }
 
