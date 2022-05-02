@@ -38,3 +38,4 @@ describe('Unit Tests for User class', () => {
         expect(user.bio).toBe("New bio");
     })
 })
+
